@@ -1,0 +1,4 @@
+﻿2025-12-20T21:34:45.4151673Z [info] The application is running
+2025-12-20T21:34:45.4838818Z [info] performing the operation
+2025-12-20T21:34:45.5069487Z [error] execution error: test exception
+2025-12-20T21:34:45.5097979Z [info] The application is running

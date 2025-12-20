@@ -1,0 +1,22 @@
+[
+  {
+    "Timestamp": "2025-12-20T21:34:45.5174718Z",
+    "Level": "info",
+    "Message": "The application is running"
+  },
+  {
+    "Timestamp": "2025-12-20T21:34:45.5174781Z",
+    "Level": "info",
+    "Message": "performing the operation"
+  },
+  {
+    "Timestamp": "2025-12-20T21:34:45.5174805Z",
+    "Level": "error",
+    "Message": "execution error: test exception"
+  },
+  {
+    "Timestamp": "2025-12-20T21:34:45.5097979Z",
+    "Level": "info",
+    "Message": "The application is running"
+  }
+]
